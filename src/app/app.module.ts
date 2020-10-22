@@ -8,6 +8,7 @@ import { FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { QuizService } from './services/quiz-services';
 
+
 @NgModule({
   declarations: [
     AppComponent,
